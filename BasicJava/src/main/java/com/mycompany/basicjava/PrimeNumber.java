@@ -16,7 +16,7 @@ public class PrimeNumber {
             for(int x=2; x<num; x++){
                 if(num%x==0){
                     count++;
-                    break;
+                    break; // This is update
                 }
             }
 
